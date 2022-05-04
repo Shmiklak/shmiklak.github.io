@@ -50,10 +50,45 @@
     </header>
 
     <main>
-        <div class="home-page-banner">
-            Insert cute banner here
+
+        <div class="container mt-5 mb-5">
+
+            <h1 class="text-center">My Favourite Characters</h1>
+
+            <div class="row characters-list mt-5">
+
+            </div>
+
         </div>
+
     </main>
+
+    <!-- Modal -->
+    <div class="modal fade" id="characterModal" tabindex="-1" aria-labelledby="characterModallabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Character Information</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <img src="" id="characterModalImage">
+                        </div>
+
+                        <div class="col-lg-6">
+                            <h5 id="characterModalName"></h5>
+
+                            <p id="characterModalDescription"></p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
 
     <footer class="pt-5 pb-5">
 
@@ -74,7 +109,7 @@
     </footer>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="js/characters.js"></script>
 </body>
 </html>

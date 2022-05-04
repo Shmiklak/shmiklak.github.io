@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "src": "/images/characters/arataki_itto.webp",
+      "name": "Arataki Itto",
+      "short_description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?"
+    },
+    {
+      "src": "/images/characters/eula.webp",
+      "name": "Eula",
+      "short_description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day."
+    },
+    {
+      "src": "/images/characters/kaedehara_kazuha.webp",
+      "name": "Kaedehara Kazuha",
+      "short_description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past."
+    },
+    {
+      "src": "/images/characters/kamisato_ayaka.webp",
+      "name": "Kamisato Ayaka",
+      "short_description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong."
+    },
+    {
+      "src": "/images/characters/klee.png",
+      "name": "Klee",
+      "short_description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight."
+    },
+    {
+      "src": "/images/characters/raiden_shogun.webp",
+      "name": "Raiden Shogun",
+      "short_description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity."
+    },
+    {
+      "src": "/images/characters/shenhe.webp",
+      "name": "Shenhe",
+      "short_description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves."
+    },
+    {
+      "src": "/images/characters/yae_miko.webp",
+      "name": "Yae Miko",
+      "short_description": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance."
+    },
+    {
+      "src": "/images/characters/yoimiya.png",
+      "name": "Yoimiya",
+      "short_description": "Owner of Naganohara Fireworks. Known as Queen of the Summer Festival, she excels in her craft of creating fireworks that symbolize people's hopes and dreams."
+    }
+  ]
+}

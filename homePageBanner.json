@@ -1,0 +1,20 @@
+{
+  "slides": [
+    {
+      "src": "/images/yaemiko.jpg",
+      "title": "Explore Teyvat with Yae Miko"
+    },
+    {
+      "src": "/images/sunset.jpg",
+      "title": "Reveal the secrets of Dodoko King"
+    },
+    {
+      "src": "/images/keqing.jpg",
+      "title": "Try out new skin for Keqing"
+    },
+    {
+      "src": "/images/yoimiya.jpg",
+      "title": "Enjoy the Inazuma festival with Yoimiya"
+    }
+  ]
+}
