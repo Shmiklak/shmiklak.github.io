@@ -148,8 +148,8 @@ a:hover{
         right: 0;
         max-width: unset;
         text-align: center;
-        bottom: 100px;
-        top: unset;
+        bottom: unset;
+        top: 0;
     }
 
     .row.align-items-center .col-lg-6 {
