@@ -143,3 +143,16 @@ a:hover{
     color: inherit;
 }
 
+@media (max-width: 768px) {
+    .home-page-banner .item h3 {
+        right: 0;
+        max-width: unset;
+        text-align: center;
+        bottom: 100px;
+        top: unset;
+    }
+
+    .row.align-items-center .col-lg-6 {
+        margin-bottom: 40px;
+    }
+}
