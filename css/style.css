@@ -150,6 +150,8 @@ a:hover{
         text-align: center;
         bottom: unset;
         top: 0;
+        padding: 10px;
+        font-size: 36px;
     }
 
     .row.align-items-center .col-lg-6 {
